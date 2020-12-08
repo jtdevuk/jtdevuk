@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John</h1>
-<h3 align="center">Full Stack Engineer based in London, UK</h3>
+<h3 align="center">Full Stack Web Developer based in London, UK</h3>
 
 - 📫 How to reach me **j.tweeddale@outlook.com**
 
