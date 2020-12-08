@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm John Tweeddale</h1>
+<h1 align="center">Hi 👋, I'm John</h1>
 <h3 align="center">Full Stack Engineer based in London, UK</h3>
 
 - 📫 How to reach me **j.tweeddale@outlook.com**
